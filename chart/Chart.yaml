@@ -1,0 +1,4 @@
+apiVersion: v1
+description: mythreekit.com client react app
+name: clientApp
+version: 0.1.0
